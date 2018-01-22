@@ -1,0 +1,9 @@
+1,Swimming Pool
+2,Boat House
+3,Garden
+4,Garage
+5,Gate House
+6,Stable
+7,Tennis Courts
+8,Gazebo
+9,Tudor Mansion
